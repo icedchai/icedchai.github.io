@@ -1,1 +1,11 @@
 
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/icedchais-more-mobs/",
+  "1.16.5": {
+    "0.1": "Added all the tools", 
+  },
+  "promos": {
+    "1.16.5-latest": "0.1",
+    "1.16.5-recommended": "0.1"
+  }
+}
