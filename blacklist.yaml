@@ -1,0 +1,6 @@
+-
+  blacklist_name: 'hyperion'
+  server_name_includes: 'site hyperion'
+  ip: "207.174.41.146"
+  port: "7412"
+  
